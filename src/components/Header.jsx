@@ -63,7 +63,7 @@ function Header() {
               >
                 Contact
               </li>
-              <div className="fkex">
+              <div>
                 <p>Kenglik: {width}px</p>
                 <p>Balandlik: {height}px</p>
               </div>
@@ -95,7 +95,7 @@ function Header() {
               <a>Contact</a>
             </li>
           </ul>
-          <div className="flex">
+          <div className="flex gap-3">
                 <p>Kenglik: {width}px</p>
                 <p>Balandlik: {height}px</p>
               </div>
